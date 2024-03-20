@@ -1,0 +1,20 @@
+{
+  "packageManager": "yarn@4.1.1",
+  "name": "shell-tea-oolong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoH4ck3r/shell-tea-Oolong.git"
+  },
+  "author": "CryptoHacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CryptoH4ck3r/shell-tea-Oolong/issues"
+  },
+  "homepage": "https://github.com/CryptoH4ck3r/shell-tea-Oolong#readme",
+  "description": ""
+}
